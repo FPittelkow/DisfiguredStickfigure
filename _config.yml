@@ -20,10 +20,10 @@
 title: "DisfiguredStickfigure" # The site title
 lang: en-GB # The site language
 encoding: utf-8
-description: "An amazing website" # The description of the site
-copyright: "© It belongs to me." # The mentions that appear in the site's footer
+description: "DisfiguredStickfigure" # The description of the site
+copyright: "© DisfiguredStickfigure." # The mentions that appear in the site's footer
 url: "" # The base hostname for you site, e.g. http://mysite.com
-baseurl: "/simply-cyan-theme" # The subpath of your site, e.g. /blog
+baseurl: "disfiguredstickfigure.de" # The subpath of your site, e.g. /blog
 repo:
 email: youremail@something.com # The owner's email
 # google_analytics: ""
@@ -31,7 +31,7 @@ email: youremail@something.com # The owner's email
 
 # 2. SITE AVALAIBLE FUNCTIONS
 darkmode: true # Allows the switch between dark and light mode
-typosize: true # Allows to change the size of the font
+typosize: false # Allows to change the size of the font
 home-posts-limit: 10 # Change the limit of posts displayed on the home page
 
 # 3. IGNORED FILES WHILE building
@@ -69,6 +69,6 @@ defaults:
 
 # 6. Jekyll settings
 permalink: pretty # Permalink will be /YYY/MM/DD/page-name/
-timezone: Europe/London
+timezone: Europe/Berlin
 
 
