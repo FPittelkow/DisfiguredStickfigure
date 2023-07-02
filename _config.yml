@@ -23,7 +23,7 @@ encoding: utf-8
 description: "DisfiguredStickfigure" # The description of the site
 copyright: "© DisfiguredStickfigure." # The mentions that appear in the site's footer
 url: "" # The base hostname for you site, e.g. http://mysite.com
-baseurl: "disfiguredstickfigure.de" # The subpath of your site, e.g. /blog
+baseurl: "" # The subpath of your site, e.g. /blog
 repo:
 email: youremail@something.com # The owner's email
 # google_analytics: ""
